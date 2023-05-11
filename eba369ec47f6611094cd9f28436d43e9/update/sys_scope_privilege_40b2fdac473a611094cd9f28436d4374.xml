@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="NeedIt Spoke">eba369ec47f6611094cd9f28436d43e9</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-05-11 02:36:05</sys_created_on>
+        <sys_id>40b2fdac473a611094cd9f28436d4374</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ScopedGlideElement</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_1054949_needit_s">eba369ec47f6611094cd9f28436d43e9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">eba369ec47f6611094cd9f28436d43e9</sys_scope>
+        <sys_update_name>sys_scope_privilege_40b2fdac473a611094cd9f28436d4374</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-05-11 02:36:05</sys_updated_on>
+        <target_name>ScopedGlideElement</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>scriptable</target_type>
+    </sys_scope_privilege>
+</record_update>
